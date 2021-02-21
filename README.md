@@ -1,4 +1,13 @@
-# Facial Recognition Attendence GUI
-Modified by Augmented Startups & Geeky Bee
-October 2020
-Full Course - https://augmentedstartups.info/yolov4release
+# Face-Recogntion-PyQt
+
+## To Install the Facial Recognition Libraries Dependencies
+
+You will need the following:
+
+```pip install cmake```
+
+```pip install dlib```
+
+```pip install opencv```
+
+```pip install face-recognition```
