@@ -1,4 +1,4 @@
-# Face-Recogntion-PyQt
+# Face-Detection-Attendeces-PyQt5-CNN-PCA
 
 ## To Install the Facial Recognition Libraries Dependencies
 
